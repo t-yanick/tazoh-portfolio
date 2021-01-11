@@ -466,7 +466,8 @@ Hero
     grid-row: 1/1;
     grid-column: 6/-1;
     border-radius: 30%;
-    height: 600px;
+    height: 400px;
+    width: 350px;
   }
 }
 @media screen and (min-width: 1170px) {
