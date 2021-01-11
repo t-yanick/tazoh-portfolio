@@ -7,6 +7,6 @@ import Jobs from "../components/Jobs"
 import Projects from "../components/Projects"
 import Blogs from "../components/Blogs"
 export default () => {
-  return <h2>yankos portfolio 1010</h2>
+  return <Layout></Layout>
 }
 // ...GatsbyImageSharpFluid
