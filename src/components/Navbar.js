@@ -12,7 +12,7 @@ const Navbar = ({ toggleSidebar }) => {
             <FaAlignRight></FaAlignRight>
           </button>
         </div>
-        <PageLinks styleClass="nav-links"></PageLinks>
+        <PageLinks styleClass="nav-links" target="_blank"></PageLinks>
       </div>
     </nav >
   )

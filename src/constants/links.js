@@ -14,7 +14,7 @@ const data = [
   {
     id: 3,
     text: "projects",
-    url: "/projects/",
+    url: "/projects/", target: "_blank",
   },
   {
     id: 4,
