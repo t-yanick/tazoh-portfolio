@@ -6,12 +6,12 @@
 
 module.exports = {
   siteMetadata: {
-    title: "Tazoh Portfolio",
-    description: "This is Tazoh Yanick Portfolio Site",
+    title: "Tazoh's Portfolio",
+    description: "This is Tazoh Yanick's Personal Portfolio Site",
     author: "@t-yanick",
     twitterUsername: "@ElTazoh",
     image: "/twitter-img.png",
-    siteUrl: "https://tazoh-portfolio.netlify.app/",
+    siteUrl: "https://t-yanick.tech",
   },
   plugins: [
     `gatsby-transformer-sharp`,
