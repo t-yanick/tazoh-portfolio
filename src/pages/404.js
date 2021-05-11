@@ -6,7 +6,7 @@ import SEO from "../components/SEO"
 const Error = () => {
   return (
     <Layout>
-      <main classNmae="error-page">
+      <main className="error-page">
         <div className="error-container">
           <h1>You are lost. Probably heading to a rabbit hole.</h1>
           <Link to="/" className="btn">
