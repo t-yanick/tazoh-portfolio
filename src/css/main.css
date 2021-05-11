@@ -938,6 +938,8 @@ About Page
   .about-img {
     grid-column: 1 / span 5;
     margin-bottom: 0;
+    height: auto;
+    border-radius: 15px;
   }
   .about-text {
     grid-column: 6 / -1;
