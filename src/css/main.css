@@ -431,13 +431,15 @@ Hero
   display: none;
 }
 .hero-info h4 {
-  color: var(--clr-grey-5);
+  /* color: var(--clr-grey-5); */
+  color: #1D4B77;
 }
 .hero-icons {
   justify-items: flex-start;
 }
 .hero .btn {
   margin-top: 1.25rem;
+  color: #070808;
 }
 
 @media screen and (min-width: 992px) {
@@ -668,7 +670,8 @@ Projects
 .project-number {
   display: inline-block;
   font-size: 1.25rem;
-  color: var(--clr-primary-5);
+  /* color: var(--clr-primary-5); */
+  color: #296F75;
   margin-bottom: 0.75rem;
 }
 .project-info h3 {
@@ -687,7 +690,8 @@ Projects
 .about-stack span {
   display: inline-block;
   background: var(--clr-grey-9);
-  color: var(--clr-grey-5);
+  /* color: var(--clr-grey-5); */
+  color: #14416B;
   margin-right: 0.5rem;
   padding: 0.25rem 0.5rem;
   border-radius: var(--radius);
@@ -795,7 +799,8 @@ Blog
 .blog-footer p {
   margin-bottom: 0;
   font-weight: bold;
-  color: var(--clr-grey-5);
+  /* color: var(--clr-grey-5); */
+  color: #043767;
 }
 .blog-footer p:first-of-type {
   display: inline-block;
